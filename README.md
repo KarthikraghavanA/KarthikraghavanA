@@ -50,4 +50,4 @@
 
 <hr>
 
-[linkedin]: www.linkedin.com/in/karthikraghavan-annamala
+[linkedin]: www.linkedin.com/in/karthikraghavan-annamalai

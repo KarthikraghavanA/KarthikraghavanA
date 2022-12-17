@@ -35,11 +35,11 @@
 
 
 
-![Karthikraghavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarthikRaghavan-Annamalai&theme=highcontrast&show_icons=true&count_private=true)
+![Karthikraghavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarthikraghavanA=highcontrast&show_icons=true&count_private=true)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikRaghavan-Annamalai&layout=compact) <br>
-![](https://komarev.com/ghpvc/?username=KarthikRaghavan-Annamalai) <br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KarthikRaghavan-Annamalai&theme=neon-palenight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikraghavanA&layout=compact) <br>
+![](https://komarev.com/ghpvc/?username=KarthikraghavanA) <br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KarthikraghavanA&theme=neon-palenight&hide_border=true)
 
 
 #### You can also find me on: 
@@ -50,4 +50,5 @@
 
 <hr>
 
-[linkedin]: https://www.linkedin.com/in/karthikraghavan-annamalai 
+[linkedin]: www.linkedin.com/in/karthikraghavan-annamalai-b198b2258
+

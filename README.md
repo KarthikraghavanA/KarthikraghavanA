@@ -1,7 +1,7 @@
 <h1 align="center">Karthikraghavan</h1>
 
 * I completed my Bachelors in Mathematics in Karpagam Academy of Higher Education [Coimbatore,TN]
-* I am currently working in Cognizant Technology Solutions as an Subject Matter Expert. 
+* I am currently working in Cognizant Technology Solutions as a Subject Matter Expert. 
 * I'm an aspiring Full Stack Data Scientist
 * My favourite thing about my job is getting data and analysing in order to minimize the breaching metrics and find trends or identify patterns.
 * I also work with stakeholders and provide updates on how we can improve overcoming the challenges we face everyday.

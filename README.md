@@ -50,5 +50,5 @@
 
 <hr>
 
-[linkedin]: [https://www.linkedin.com/in/karthikraghavan-annamalai-b198b2258/](https://www.linkedin.com/in/karthikraghavan-annamalai-b198b2258/)
+[linkedin]: www.linkedin.com/in/karthikraghavan-annamalai-b198b2258
 

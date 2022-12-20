@@ -35,8 +35,7 @@
 
 
 
-![Karthikraghavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarthikraghavanA=highcontrast&show_icons=true&count_private=true)
-<br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikraghavanA&layout=compact) <br>
 ![](https://komarev.com/ghpvc/?username=KarthikraghavanA) <br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KarthikraghavanA&theme=neon-palenight&hide_border=true)

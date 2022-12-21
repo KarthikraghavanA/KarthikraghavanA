@@ -8,8 +8,8 @@
 
 ### I have technical experience and interest in:
 
-* Statistics
-* Linear Algebra
+* Python
+* SQL
 * Machine Learning
 * Deep Learning
 * Natural Languages Processing
